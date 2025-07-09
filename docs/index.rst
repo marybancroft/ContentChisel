@@ -1,5 +1,10 @@
 How to Log In to Your Pogo.com Account – Easy Access to Games & Profile
 =========================================================================
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://pogo-desk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Pogo Page</a>
+   </div>
 
 If you're a gaming enthusiast who enjoys casual browser-based games, then Pogo.com is likely one of your favorite platforms. Whether it’s Solitaire, Mahjong, Word Whomp, or Spades, you can find hundreds of free games under one roof. But to get the most out of your gaming experience, you need to go through the **pogo.com login my account** process.
 
